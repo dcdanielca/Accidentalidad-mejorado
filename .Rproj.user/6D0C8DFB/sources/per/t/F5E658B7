@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526092414047.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1511480829",
+    "id" : "F5E658B7",
+    "lastKnownWriteTime" : 1526094083,
+    "last_content_update" : 1526094083888,
+    "path" : "~/Documentos/Accidentalidad-mejorado/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "15,16",
+        "scrollLine" : "1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
